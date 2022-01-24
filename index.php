@@ -1,7 +1,3 @@
-<?php 
-    session_start();
-    require('actions/questions/showAllQuestionsAction.php');
-?>
 <!DOCTYPE html>
 <html lang="en">
 <?php include 'includes/head.php'; ?>
